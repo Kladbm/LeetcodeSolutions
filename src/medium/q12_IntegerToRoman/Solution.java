@@ -1,4 +1,4 @@
-package easy.q12_IntegerToRoman;
+package medium.q12_IntegerToRoman;
 
 class Solution {
     public String intToRoman(int num) {
