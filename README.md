@@ -9,8 +9,9 @@
 
 ### Medium
 - [Q12 : Integer to Roman.](/src/medium/q12_IntegerToRoman/Solution.java)  Runtime: 72.69% | Memory: 17.67%
+- [Q50 : Pow(x, n).](/src/medium/q12_IntegerToRoman/Solution.java)  Runtime: 100% | Memory: 31.37%
 ---
 
 ### Hard
-- [Q41 : First Missing Positive.](/src/hard/q41_FirstMissingPositive/Solution.java)  Runtime: 21.40% | Memory: 06.42%
+- [Q41 : First Missing Positive.](/src/hard/q41_FirstMissingPositive/Solution.java)  Runtime: 21.4% | Memory: 6.42%
 ---
