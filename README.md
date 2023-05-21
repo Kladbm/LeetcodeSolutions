@@ -5,6 +5,7 @@
 ### Easy
 - [Q1 : Two Sum.](/src/easy/q1_TwoSum/Solution.js)  Runtime: 41.52% | Memory: 81.10%
 - [Q9 : Palindrome Number.](/src/easy/q9_PalindromeNumber/Solution.js)  Runtime: 47.80% | Memory: 82.99%
+- [Q13 : Roman to Integer.](/src/easy/q13_RomanToInteger/Solution.js)  Runtime: 32.89% | Memory: 19.16%
 ---
 
 ### Medium
