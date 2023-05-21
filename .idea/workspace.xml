@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 13">
-      <change afterPath="$PROJECT_DIR$/src/easy/q14_LongestCommonPrefix/Solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/q20_ValidParentheses/Solution.js" afterDir="false" />
+    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 14 and question 20">
+      <change afterPath="$PROJECT_DIR$/src/hard/q41_FirstMissingPositive/Solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hard/q41_FirstMissingPositive/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Programming/JS",
@@ -76,7 +75,8 @@
       <updated>1682880721258</updated>
       <workItem from="1682880722318" duration="5391000" />
       <workItem from="1684680629616" duration="113000" />
-      <workItem from="1684680744744" duration="5703000" />
+      <workItem from="1684680744744" duration="5765000" />
+      <workItem from="1684689996696" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682881867612</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684684904838</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add question 14 and question 20">
+      <created>1684686660525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684686660525</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +148,7 @@
     <MESSAGE value="java -&gt; js question 1" />
     <MESSAGE value="java -&gt; js question 9" />
     <MESSAGE value="Add question 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add question 13" />
+    <MESSAGE value="Add question 14 and question 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add question 14 and question 20" />
   </component>
 </project>

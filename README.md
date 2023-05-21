@@ -17,5 +17,5 @@
 ---
 
 ### Hard
-- [Q41 : First Missing Positive.](/src/hard/q41_FirstMissingPositive/Solution.java)  Runtime: 21.4% | Memory: 6.42%
+- [Q41 : First Missing Positive.](/src/hard/q41_FirstMissingPositive/Solution.js)  Runtime: 15.28% | Memory: 58.59%
 ---
