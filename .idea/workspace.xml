@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 12">
-      <change afterPath="$PROJECT_DIR$/src/hard/q41_FirstMissingPositive/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/q1_TwoSum/Solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/q12_IntegerToRoman/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/q12_IntegerToRoman/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/q1_TwoSum/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,11 +43,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Programming/2 КУРС Кирилл/2 semester/КПП/Laboratory 6",
+    "last_opened_file_path": "C:/Programming/JS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,11 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682880721258</updated>
       <workItem from="1682880722318" duration="5391000" />
+      <workItem from="1684680629616" duration="113000" />
+      <workItem from="1684680744744" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682881867612</created>
