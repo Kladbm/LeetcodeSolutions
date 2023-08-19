@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 35 and question 347">
-      <change afterPath="$PROJECT_DIR$/src/easy/q2629_FunctionComposition/Solution.js" afterDir="false" />
+    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -28,6 +27,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2P9sdiRZcikkgw5z2NW8sVyQ0PP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Programming/JS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kladbm/WebstormProjects/LeetCodeSolutions/LeetcodeSolutions&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kladbm\WebstormProjects\LeetCodeSolutions\LeetcodeSolutions\src\medium\q134_GasStation" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.q12_IntegerToRoman.Test" />
@@ -83,6 +91,9 @@
       <workItem from="1684847404877" duration="982000" />
       <workItem from="1684864906476" duration="697000" />
       <workItem from="1684912808697" duration="453000" />
+      <workItem from="1692364266558" duration="37000" />
+      <workItem from="1692364304021" duration="1709000" />
+      <workItem from="1692454722530" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682881867612</created>
@@ -154,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1684823032661</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add question 17">
+      <option name="closed" value="true" />
+      <created>1692366024395</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692366024395</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +190,7 @@
     <MESSAGE value="Add question 14 and question 20" />
     <MESSAGE value="java -&gt; js question 41" />
     <MESSAGE value="Add question 35 and question 347" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add question 35 and question 347" />
+    <MESSAGE value="Add question 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add question 17" />
   </component>
 </project>
