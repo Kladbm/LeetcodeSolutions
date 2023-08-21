@@ -16,6 +16,7 @@
 - [Q12 : Integer to Roman.](/src/medium/q12_IntegerToRoman/Solution.java)  Runtime: 72.69% | Memory: 17.67%
 - [Q17 : Letter Combinations of a Phone Number.](/src/medium/q17_LetterCombinationsPhoneNumber/Solution.js) Runtime: 45.91% | Memory: 39.01%
 - [Q36 : Valid Sudoku.](/src/medium/q36_ValidSudoku/Solution.java)  Runtime: 45.8% | Memory: 64.64%
+- [Q48 : Rotate Image.](/src/medium/q48_RotateImage/Solution.js)  Runtime: 90.71% | Memory: 54.37%
 - [Q50 : Pow(x, n).](/src/medium/q50_PowXN/Solution.java)  Runtime: 100% | Memory: 31.37%
 - [Q134 : Gas Station](/src/medium/q134_GasStation/Solution.js)  Runtime: 74.44% | Memory: 62.56%
 - [Q172 : Factorial Trailing Zeroes](/src/medium/q172_FactorialTrailingZeroes/Solution.js)  Runtime: 96.12% | Memory: 28.06%

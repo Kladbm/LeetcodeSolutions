@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 134">
+    <list default="true" id="1b9e9c5c-6024-4b62-acf8-28d96736209f" name="Changes" comment="Add question 172">
+      <change afterPath="$PROJECT_DIR$/src/medium/q48_RotateImage/Solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -95,7 +96,8 @@
       <workItem from="1692364266558" duration="37000" />
       <workItem from="1692364304021" duration="1709000" />
       <workItem from="1692454722530" duration="4109000" />
-      <workItem from="1692509272840" duration="1701000" />
+      <workItem from="1692509272840" duration="2411000" />
+      <workItem from="1692614498493" duration="4847000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682881867612</created>
@@ -191,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692458289826</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add question 172">
+      <option name="closed" value="true" />
+      <created>1692518168694</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692518168694</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +220,7 @@
     <MESSAGE value="Add question 35 and question 347" />
     <MESSAGE value="Add question 17" />
     <MESSAGE value="Add question 134" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add question 134" />
+    <MESSAGE value="Add question 172" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add question 172" />
   </component>
 </project>
